@@ -1,3 +1,4 @@
+#Splits the input characters into pairs
 
 def spiltStrings(str):
 
@@ -12,9 +13,5 @@ def spiltStrings(str):
     return newStr
 
 print(spiltStrings(input('Enter a string: ')))
-
-
-
-
 
     
