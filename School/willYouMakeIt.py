@@ -1,3 +1,5 @@
+#Checks to see if your car can make it with how much gas you have left
+
 def willYouMakeIt(Station, Mpg, GLeft):
 
     if Station/GLeft <= Mpg:
